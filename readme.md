@@ -149,6 +149,9 @@ Every quantitative claim below is reproducible: see `TRACEABILITY_MATRIX.md` for
 ## Contact
 
 *[Name]Tràn Văn Thành Chương* 
+
 *[Email] tranchuong06101997@gmail.com*
+
 *[LinkedIn]*
+
 *[Portfolio link] *
