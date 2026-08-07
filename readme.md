@@ -152,6 +152,6 @@ Every quantitative claim below is reproducible: see `TRACEABILITY_MATRIX.md` for
 
 *[Email] tranchuong06101997@gmail.com*
 
-*[LinkedIn]*
 
-*[Portfolio link] *
+
+
