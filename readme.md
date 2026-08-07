@@ -16,11 +16,17 @@ The dataset does not include cost or freight data, so findings describe observed
 
 ## Dashboard Preview
 
-*[Dashboard screenshot placeholder]*
+<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/7f5fcce2-518f-4dd8-9f02-336129e37347" />
 
-*[Dashboard screenshot placeholder]*
 
-*[Dashboard screenshot placeholder]*
+<img width="1420" height="802" alt="image" src="https://github.com/user-attachments/assets/17e2da33-c4fb-442c-a63b-53bcd047ffa4" />
+
+
+<img width="1420" height="806" alt="image" src="https://github.com/user-attachments/assets/8106a699-48ef-4bed-92ba-8fe9bf61d227" />
+
+<img width="1426" height="802" alt="image" src="https://github.com/user-attachments/assets/e32f64e6-e21a-444b-9176-4068eb6df274" />
+
+<img width="1422" height="802" alt="image" src="https://github.com/user-attachments/assets/6bd7aa12-a8fc-4028-b934-05af542323fb" />
 
 ---
 
