@@ -112,7 +112,7 @@ Every quantitative claim below is reproducible: see `TRACEABILITY_MATRIX.md` for
 
 ```
 ├── data/                      # Raw and processed dataset files
-├── notebooks/
+├── notebook/
 │   ├── 01_EDA.ipynb                     # Dataset structure, quality, schema
 │   ├── 02_Root_Cause_Analysis.ipynb     # Hypothesis testing, driver decomposition
 │   └── 03_Validation.ipynb              # Robustness checks, cross-view consistency
@@ -149,7 +149,7 @@ Every quantitative claim below is reproducible: see `TRACEABILITY_MATRIX.md` for
 
 ## Contact
 
-*[Name]Tràn Văn Thành Chương* 
+*[Name]Trần Văn Thành Chương* 
 
 *[Email] tranchuong06101997@gmail.com*
 
