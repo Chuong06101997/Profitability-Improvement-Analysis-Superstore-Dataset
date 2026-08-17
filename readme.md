@@ -16,7 +16,8 @@ The dataset does not include cost or freight data, so findings describe observed
 
 ## Dashboard Preview
 
-<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/7f5fcce2-518f-4dd8-9f02-336129e37347" />
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/0b6f5184-597c-4744-b34b-71d6e7c12ade" />
+
 
 
 <img width="1420" height="802" alt="image" src="https://github.com/user-attachments/assets/17e2da33-c4fb-442c-a63b-53bcd047ffa4" />
@@ -28,7 +29,8 @@ The dataset does not include cost or freight data, so findings describe observed
 
 <img width="1426" height="802" alt="image" src="https://github.com/user-attachments/assets/e32f64e6-e21a-444b-9176-4068eb6df274" />
 
-<img width="1421" height="800" alt="image" src="https://github.com/user-attachments/assets/4f21db9f-0e23-4827-9b24-93e93b3b78c3" />
+<img width="1427" height="804" alt="image" src="https://github.com/user-attachments/assets/65fea1fb-6e73-4052-945b-fa1bd1f94644" />
+
 
 
 ---
