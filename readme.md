@@ -20,7 +20,7 @@ The dataset does not include cost or freight data, so findings describe observed
 
 
 
-<img width="1420" height="802" alt="image" src="https://github.com/user-attachments/assets/17e2da33-c4fb-442c-a63b-53bcd047ffa4" />
+<img width="1425" height="802" alt="image" src="https://github.com/user-attachments/assets/1ac49c69-8c20-4b72-bb5c-c59e007282a8" />
 
 
 <img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/5e7f401b-bde6-4970-a5f8-bb184a981cbb" />
